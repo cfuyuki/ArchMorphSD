@@ -106,5 +106,5 @@ Commercial use requires prior permission from the author.
 
 ## Contact
 For questions regarding reproduction or research usage:  
-**chie.fuyuki.research@gmail.com**
+**cfuyuki@gmail.com**
 
