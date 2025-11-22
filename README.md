@@ -1,6 +1,6 @@
 # ArchMorphSD  
 *A ComfyUI workflow for architectural biomimetic morphogenesis*  
-Fuyuki, C. (2025) — CAADRIA 2026 Submission
+<!--- # "Fuyuki, C. (2025) — CAADRIA 2026 Submission" -->
 
 ---
 
@@ -26,9 +26,9 @@ This repository provides the workflow necessary to reproduce **architectural-sca
 ---
 
 ## Repository Contents
-/ArchMorphSD_workflow.json # ComfyUI workflow file
-/README.md # Documentation (this file)
-/sample_outline/ # Example architectural outline silhouettes
+- ArchMorphSD_workflow.json # ComfyUI workflow file
+- README.md # Documentation (this file)
+- sample_outline/ # Example architectural outline silhouettes
 
 
 > **Note:**  
@@ -79,10 +79,7 @@ If you use ArchMorphSD in academic work, please cite:
 
 > **Fuyuki, C. (2025).** *ArchMorphSD (a custom ComfyUI workflow for architectural morphogenesis)* [Computer software]. GitHub.
 
-This workflow is part of the methodology of the CAADRIA 2026 paper:
-
-> **Fuyuki, C. & Nagao, S. (2025).** *Generative AI for Biomimetic Texture-Informed Morphogenesis:  
-> A Comparative Study of PEFT Methods in Architectural Prototyping.*
+This workflow is part of the methodology of the CAADRIA 2026 paper.
 
 ---
 
@@ -90,7 +87,7 @@ This workflow is part of the methodology of the CAADRIA 2026 paper:
 The workflow is intentionally modular to allow:
 - consistent cross-method comparison,  
 - controlled PEFT parameter variation,  
-- integration of hierarchical prompt tokens (1–9)  
+- integration of hierarchical prompts (#1-3)  
 as defined in the paper.
 
 The **MorphEvalBench** evaluation toolkit used in Section 3.4 is available separately here:  
