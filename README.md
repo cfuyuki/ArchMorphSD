@@ -26,9 +26,9 @@ This repository provides the workflow necessary to reproduce **architectural-sca
 ---
 
 ## Repository Contents
-- ArchMorphSD_workflow.json # ComfyUI workflow file
-- README.md # Documentation (this file)
-- sample_outline/ # Example architectural outline silhouettes
+- ArchMorphSD_workflow.json : ComfyUI workflow file
+- README.md : Documentation (this file)
+- sample_outline/ : Example architectural outline silhouettes
 
 
 > **Note:**  
