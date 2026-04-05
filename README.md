@@ -1,5 +1,5 @@
 # ArchMorphSD  
-*A ComfyUI workflow for architectural biomimetic morphogenesis*  
+*A reproducible ComfyUI workflow for evaluating PEFT strategies in architectural biomimetic morphogenesis.*  
 <!--- # "Fuyuki, C. (2025) — CAADRIA 2026 Submission" -->
 
 ---
